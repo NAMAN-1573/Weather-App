@@ -6,8 +6,8 @@
 }
 
 :root {
-  --colorDark1: #112D4E;
-  --colorDark2: #3F72AF;
+  --colorDark1: #e3a915;
+  --colorDark2: #79e4a2;
   --colorLight1: #DBE2EF;
   --colorLight2: #F9F7F7;
 }
@@ -16,7 +16,7 @@
   width:100vw;
   min-height:100vh;
   color: var(--colorLight2);
-  background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%);
+  background-image: linear-gradient(160deg, #ddb387 0%, #cc510a 100%);
   padding-bottom: 1px;
 }
 
